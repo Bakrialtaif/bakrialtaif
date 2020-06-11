@@ -196,7 +196,6 @@
 
               <h2 class="arabic-title1">دوري في المشروع</h2>
               <p>مؤسس الإطار النظري للمشروع وبناء نسخة المشروع الأولى ومن ثم تأسيس فريق العمل وإدارته.</p>
-              <img src="images/14.jpg" alt="" class="thumbnail">
             </div>
             <div class="tabs-panel" id="abrar">
               <h2 class="arabic-title1">
@@ -208,7 +207,6 @@
               <p>المشروع جزء من تطوير مركز تقنية المعلومات بمنظمة أبرار لرعاية معاقي الحرب ومكافحة الألغام بتمويل من الـ <span class="english-text1">UNDP</span>.</p>
               <h2 class="arabic-title1">دوري في المشروع</h2>
               <p>المشاركة في تحكيم إستمارة البيانات وبناء نسخة النظام الأولى وتأسيس فريق العمل وإدارته.</p>
-              <img src="images/13.jpg" alt="" class="thumbnail">
             </div>
             <div class="tabs-panel" id="mande">
               <h2 class="arabic-title1">
