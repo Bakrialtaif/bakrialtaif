@@ -53,7 +53,7 @@
 
           <li class='event offset-first'>
             <div class="arabic-title1">CEO</div>
-            <p>مؤسسة باتنجان للتغذية المدرسية</p>
+            <p>مبرمج حر</p>
             <p class="arabic-text1">1/2019 - حتى الآن</p>
           </li>
 
@@ -62,7 +62,7 @@
           <li class='event offset-first'>
             <div class="arabic-title1">مدير تقنية المعلومات</div>
             <p>شركة شمس الإدارة - المملكة العربية السعودية</p>
-            <p class="arabic-text1">1/2018 - 12/2018</p>
+          <p class="arabic-text1">1/2018 - 12/2018</p>
           </li>
 
           <li class="event">
@@ -340,27 +340,9 @@
           </div>
         </div>
         <div class="cell text-center">
-          <span class="english-text1">Bootstrap library</span>
+          <span class="english-text1">Odoo ERP</span>
           <div class="success progress">
             <div class="progress-meter" style="width: 100%"></div>
-          </div>
-        </div>
-        <div class="cell text-center">
-          <span class="english-text1">Bulma library</span>
-          <div class="success progress">
-            <div class="progress-meter" style="width: 100%"></div>
-          </div>
-        </div>
-        <div class="cell text-center">
-          <span class="english-text1">Foundation library</span>
-          <div class="success progress">
-            <div class="progress-meter" style="width: 60%"></div>
-          </div>
-        </div>
-        <div class="cell text-center">
-          <span class="english-text1">Vue.js Library</span>
-          <div class="success progress">
-            <div class="progress-meter" style="width: 60%"></div>
           </div>
         </div>
       </div>
