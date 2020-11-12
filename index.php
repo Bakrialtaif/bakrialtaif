@@ -173,7 +173,7 @@
               <img src="images/1.jpg" alt="" class="thumbnail">
               <h2 class="arabic-title1">دوري في المشروع</h2>
               <p>شغلت عدة مهام في المشروع : مبرمج، مصمم، محلل، فاحص، تأسيس فريق العمل، تدريب فريق العمل، خدمة العملاء، التسويق.</p>
-              <a href="https://snsoerp.com/" target="_blank" class="link-style"><i class="fi fi-link"></i>&nbsp;موقع الشركة</a>
+              <a href="https://snso.net/" target="_blank" class="link-style"><i class="fi fi-link"></i>&nbsp;موقع الشركة</a>
               &nbsp;&nbsp;&nbsp;
               <a href="https://help.snso.net/" target="_blank" class="link-style"><i class="fi fi-link"></i>&nbsp;منصة المعرفة</a>
             </div>
