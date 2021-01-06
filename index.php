@@ -99,6 +99,7 @@
 								<p>Experienced Senior Programmer, with 10+ years of experience in a variety of information technology position. </p>
 								<p>Demonstrated history of working in Software Engineering, Statistics, Team Building, HR, DevOps, Accounting, Planning, with keen eye for details and analytical problem solving skills with a passion about driving change forward. </p>
 								<p>Skilled in Python, PHP, Dart, R, SPSS, Web and ERP Development, Linux, Databases. </p>
+								<p>I was born on July / 1985, married with four children, passionate about technologies, agriculture, travel, cooking, culture, arts and music.</p>
 							</div>
 						</div>
 				</div>
